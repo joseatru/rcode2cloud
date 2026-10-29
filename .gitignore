@@ -5,7 +5,7 @@
 .env.local
 *.pem
 secrets.yml
-
+*/**/.pat_env
 # ------------------------------------------------------------------ #
 # Migration runtime artifacts (regenerated on every run)
 # ------------------------------------------------------------------ #

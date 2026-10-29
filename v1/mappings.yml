@@ -36,6 +36,11 @@ destination:
   project_id: 83486174
   name: "scicomp-kanban_cce-migration"
 
+test_destination:
+  path: "https://gitlab.com/rockefelleruniversity/it/infra/cce/rcode_forks/scicomp-kanban_cce-migration_v1"
+  project_id: 88242197
+  name: "scicomp-kanban_cce-migration_v1"
+
 users:
   jherrera:
     dest_username: "jherrera15"
